@@ -1,0 +1,9 @@
+@import "~reset-css/sass/reset";
+
+$primary-color: #fff;
+$bg: #000;
+
+h1 {
+  color: $primary-color;
+  background-color: $bg;
+}
